@@ -17,7 +17,6 @@ A data-driven machine learning project that predicts student Grade Point Average
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
