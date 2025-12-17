@@ -85,12 +85,8 @@ The dataset contains **2,392 student records** with **15 features** covering:
 student-GPA-prediction/
 │
 ├── STD_performance.ipynb          # Main analysis notebook
-├── charts.ipynb                   # Visualization notebook
-├── charts0.1.ipynb                # Additional charts
 ├── Student_performance_data _.csv  # Original dataset
-├── cleaned_dataset.csv            # Preprocessed dataset
-├── Forecasting Academic Success A Data-Driven Model for Student GPA Predictio.pdf  # Research paper
-└── README.md                      # Project documentation
+└── cleaned_dataset.csv            # Preprocessed dataset
 ```
 
 ## 🛠️ Technologies Used
